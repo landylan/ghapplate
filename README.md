@@ -20,7 +20,7 @@ Go to https://github.com/webapplate/ghapplate, click 'fork' button to fork the t
 
 ## How to see ghapplate
 
-Go to http://landylan.github.io/, that's all :)
+Go to http://landylan.github.io/ghapplate, that's all :)
 
 ## How to create multiple forks of a GitHub repo?
 
